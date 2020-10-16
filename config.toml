@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://examplesite.com"
-title = "Somrat | Hugo Portfolio Template"
+title = "DIPTIRTHA |Homepage "
 theme = "somrat"
 # disable language
 disableLanguages = [] # desable language from here
@@ -48,32 +48,32 @@ link = "plugins/owl-carousel/owl.carousel.min.js"
 
 # main menu
 [[menu.main]]
-name = "Home"
+name = "DIPTIRTHA CHATTERJEE"
 URL = "#home"
 weight = 1
 
 [[menu.main]]
-name = "About me"
+name = "ABOUT ME"
 URL = "#about"
 weight = 2
 
 [[menu.main]]
-name = "Service"
+name = "SERVICE"
 URL = "#service"
 weight = 3
 
 [[menu.main]]
-name = "Portfolio"
+name = "PORTFOLIO"
 URL = "#portfolio"
 weight = 4
 
 [[menu.main]]
-name = "Testimonial"
+name = "TESTIMONIAL"
 URL = "#testimonial"
 weight = 5
 
 [[menu.main]]
-name = "Contact"
+name = "CONTACT"
 URL = "#contact"
 weight = 6
 
@@ -84,7 +84,7 @@ logo_light = "images/logo.png"
 logo_dark = "images/logo-dark.png"
 # Meta data
 description = "This is meta description"
-author = "somrat"
+author = "DIPTIRTHA"
 # contact form action
 contact_form_action = "" # contact form works with https://formspree.io
 # Google Analitycs
@@ -97,24 +97,24 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
   
 ############################# social site ########################
 [[params.social]]
-icon = "fa-facebook-f" # fontawesome icon 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-link = "https://www.facebook.com/somrat.mac"
+icon = "fa-facebook-official" # fontawesome icon 4.7.0 : https://fontawesome.com/v4.7.0/icons/
+link = "https://www.facebook.com/Diptirtha99/"
 
 [[params.social]]
 icon = "fa-twitter" # fontawesome icon 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-link = "https://twitter.com/somrat_37"
+link = "https://twitter.com/DiptirthaC"
 
 [[params.social]]
 icon = "fa-instagram" # fontawesome icon 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-link = "https://www.instagram.com/somrat_sorkar/"
+link = "https://www.instagram.com/diptirthachatterjee/?hl=en"
 
 [[params.social]]
 icon = "fa-github" # fontawesome icon 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-link = "https://github.com/Somrat37"
+link = "https://github.com/Diptirtha99"
 
 [[params.social]]
 icon = "fa-linkedin" # fontawesome icon 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-link = "https://www.linkedin.com/in/somrat-sorkar-872581158/"
+link = "https://www.linkedin.com/in/diptirtha-chatterjee-0b816a176/"
 
 
 ################################### English language #####################################
@@ -136,4 +136,4 @@ contentDir = "content/french"
 weight = 2
 home = "Accueil"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
+copyright = "Copyright &copy; 2020 a hugo theme by [DIPTIRTHA](https://somrat.netlify.com)"
