@@ -80,8 +80,8 @@ weight = 6
 
 #################### default parameters ################################
 [params]
-logo_light = "images/logo.png"
-logo_dark = "images/logo-dark.png"
+logo_light = "images/logo2.png"
+logo_dark = "images/logo2.png"
 # Meta data
 description = "This is meta description"
 author = "DIPTIRTHA"
@@ -126,14 +126,3 @@ weight = 1
 home = "Home"
 # copyright
 copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
-
-
-################################### French language #####################################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
-# copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [DIPTIRTHA](https://somrat.netlify.com)"
