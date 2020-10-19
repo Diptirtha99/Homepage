@@ -34,7 +34,7 @@ about:
   enable : true
   image : "images/backgrounds/Dip5.jpg"
   title : "KNOW MORE <br> ABOUT ME"
-  content : "It's Diptirtha, Professional Statistics Teacher. I love to write code & learn Statistics, it's my passoin. I am here to help you. I can help you to learn Statistics in the easiest way.<br>No matter from which stream you belong, I will make sure that you'll love Statistics and enrich yourself anyway. Stay connect with me............😊"
+  content : "It's Diptirtha, Professional Statistics Teacher. I love to write code & learn Statistics, it's my passoin. I am here to help you. I can help you to learn Statistics in the easiest way.<br>No matter from which stream you belong, I will make sure that you'll love Statistics and enrich yourself anyway. Stay connected with me............😊"
   # button
   button:
     enable : true
@@ -140,30 +140,9 @@ portfolio:
     
       
     # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item7.jpg"
-      date : "Feb 2018"
-      category : "Projects"
-      
-      
-    # portfolio item loop
-    - name : "HS <br> Resust"
-      image : "images/portfolio/HS.jpg"
-      date : "May 2017"
-      category : "Marks & Info"
-      
-    # portfolio item loop
-    - name : "B.Sc Part I <br> Result"
-      image : "images/portfolio/Part I marksheet-page-001.jpg"
-      date : "Aug 2018"
-      category : "Marks & Info"
-      
-    # portfolio item loop
-    - name : "B.Sc Part II  <br> Result"
-      image : "images/portfolio/Part II Marksheet-page-001.jpg"
-      date : "Aug 2019"
-      category : "Marks & Info"
-      
+    - name : "Random <br> Forest"
+      link : "http://rpubs.com/Diptirtha99/677810"
+      category : "Blogs"
       
       # portfolio item loop
     - name : "Python  <br> Beginner"
@@ -195,26 +174,20 @@ testimonial:
   title : "TESTIMONIALS"
   testimonial_slider:
     # slider item loop
-    - name : "Micheal Clark"
-      image : "images/clients/client1.jpg"
-      designation : "CEO, RANDOM COMPANY"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
-                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+    - name : "Bratin Das"
+      image : "images/clients/3.jpg"
+      designation : "Batch co-ordinator, Softanbees Technologies Private Limited"
+      content : "Bratin Sir helped me a lot for understanding the theories in much more deeper way.
+      Happy to be with you sir.You are more than a teacher for me.Thanks for everything!"
                 
     # slider item loop
-    - name : "Peter Parker"
-      image : "images/clients/client2.jpg"
-      designation : "CEO, RANDOM COMPANY"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
-                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+    - name : "Shankhadeep Dutta"
+      image : "images/clients/0.jpg"
+      designation : "Junior Data Scientist and Web Application Developer at Softanbees Technologies Private Limited"
+      content : "Shankhadeep Sir is more than a friend.Everytime guided me whenever I'm with my errors in coding.
+      For you sir I have learned Coding in this easy manner.Thanks for being with me everytime."
                 
-    # slider item loop
-    - name : "Jessica Jones"
-      image : "images/clients/client3.jpg"
-      designation : "CEO, RANDOM COMPANY"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
-                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
-
+    
 
 ######################### funfacts #############################3
 funfacts:
