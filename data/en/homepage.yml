@@ -138,12 +138,7 @@ portfolio:
       date : "Feb 2018"
       category : "Statistics"
     
-      
-    # portfolio item loop
-    - name : "Random <br> Forest"
-      link : "http://rpubs.com/Diptirtha99/677810"
-      category : "Blogs"
-      
+    
       # portfolio item loop
     - name : "Python  <br> Beginner"
       image : "images/portfolio/python.jpg"
