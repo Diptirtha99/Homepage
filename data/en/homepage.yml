@@ -132,13 +132,7 @@ portfolio:
   enable : true
   title : "PORTFOLIO"
   portfolio_list:
-    # portfolio item loop
-    - name : "Descriptive <br> Statistics"
-      image : "images/portfolio/DESCRIPTIVE STATISTICS-page-001.jpg"
-      date : "Feb 2018"
-      category : "Statistics"
-    
-    
+      
       # portfolio item loop
     - name : "Python  <br> Beginner"
       image : "images/portfolio/python.jpg"
@@ -162,6 +156,7 @@ portfolio:
       image : "images/portfolio/CU Webiner.jpg"
       date : "Sept 2020"
       category : "Certificate Of Participation"
+      
 
 ################################# Testimonial #########################33
 testimonial:
@@ -213,3 +208,4 @@ funfacts:
 contact:
   enable : true
   title : "SAY HELLO!"
+  

@@ -77,6 +77,11 @@ name = "CONTACT"
 URL = "#contact"
 weight = 6
 
+[[menu.main]]
+name = "BLOGS"
+URL = "https://rpubs.com/Diptirtha99/677810"
+weight = 7
+
 
 #################### default parameters ################################
 [params]
