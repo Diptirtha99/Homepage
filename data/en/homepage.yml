@@ -34,7 +34,7 @@ about:
   enable : true
   image : "images/backgrounds/Dip5.jpg"
   title : "KNOW MORE <br> ABOUT ME"
-  content : "It's Diptirtha, Professional Statistics Teacher. I love to write code & learn Statistics, it's my passoin. I am here to help you. I can help you to learn Statistics in the easiest way.<br>No matter from which stream you belong, I will make sure that you'll love Statistics and enrich yourself anyway. Stay connected with me............😊"
+  content : "Hello, this is Diptirtha this side, Professional Statistics Teacher. I love to write code & learn Statistics, it's my passion. I am here to help you. I can help you to learn Statistics in the easiest way. <br>No matter from which stream you belong to, I will make sure that you'll love Statistics and enrich yourself anyway. Stay connected with me....."
   # button
   button:
     enable : true
@@ -49,18 +49,18 @@ experience:
     # experience item loop
     - name : "Statistics Teacher"
       duration : "2018-2020"
-      content : "I work with ramakrishna mission ancestral house and cultural centre Free Coaching Centre to teach students Mathematics in more easiest way."
+      content : "I voluntarily work with Sawami Vivekananda's Ancestral House and Cultural Centre,Ramakrishna Mission (Free Coaching Centre0 to teach students Mathematics in thw easiest way possible."
       
     # experience item loop
     - name : "Aspiring Data Analyst"
       duration : "2015-2020"
-      content : "I have done B.Sc Statistics(H) from University Of Calcutta and also had studies Statistics in my high school,so have moderate knowledge about Data Visulization."
+      content : "I did B.Sc Statistics(H) from Maulana Azad College, Kolkata under University Of Calcutta and also had studied Statistics in my high school. So I have moderate knowledge about Data Visualization."
       
     # experience item loop
     - name : "Junior Programmer"
       company : "Diploma"
       duration : "2018-2020"
-      content : "I had studied C programming in my graduation and have studied ML techniques through R programming.Now I'm learning Python"
+      content : "I had studied C Programming in my graduation and learned ML Techniques through R Programming. I also have gained a benginner level of understanding on Python"
 
 
 ############################### Skill #################################
@@ -77,11 +77,11 @@ skill:
       parcentage : "95%"
       
     # skill item loop
-    - name : "C programming"
+    - name : "C Programming"
       parcentage : "90%"
       
     # skill item loop
-    - name : "R programming"
+    - name : "R Programming"
       parcentage : "85%"
       
       # skill item loop
